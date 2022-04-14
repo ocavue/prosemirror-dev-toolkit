@@ -1,0 +1,1 @@
+{"version":3,"file":"empty.cjs","sources":["../src/empty.ts"],"sourcesContent":["// empty export to remove `chalk` from `jsondiffpatch` during bundling.\n\nexport default null\n"],"names":[],"mappings":";;AAAA;AACA;AACA,YAAe;;;;"}
